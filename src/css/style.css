@@ -57,7 +57,7 @@
 	--color-Rose-800: hsl(332, 51%, 32%);
 	--color-Rose-50: hsl(330, 100%, 98%);
 
-	--breakpoint-1440px: 90rem;
+	--breakpoint-desktop: 90rem;
 	--breakpoint-375px: 24rem;
 	--breakpoint-400px: 25rem;
 	--breakpoint-425px: 425px;
