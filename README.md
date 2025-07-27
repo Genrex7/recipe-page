@@ -28,8 +28,8 @@ The challenge is to build out this recipe page and get it looking as close to th
 
 ### Links
 
-- Solution URL: [Github/Recipe-page]()
-- Live Site URL: [Frontend Mentor/Recipe-page]()
+- Solution URL: [Github/Recipe-page](https://github.com/Genrex7/recipe-page)
+- Live Site URL: [Frontend Mentor/Recipe-page](https://genrex7.github.io/recipe-page/)
 
 ## My process
 
